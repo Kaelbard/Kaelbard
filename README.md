@@ -2,8 +2,8 @@
 ## Frontend e UX/UI Designer
 
  <div>
-   <a href="https://github.com/kaelbard">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaelbard&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/Kaelbard">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaelbard&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaelbard&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
