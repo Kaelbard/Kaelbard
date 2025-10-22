@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do Christiano Barbosa aka Kaelbard 😁
-## Frontend e UX/UI Designer
+## Fullstack Dev
 
  <div>
    <a href="https://github.com/Kaelbard">
