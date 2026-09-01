@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Christiano Barbosa aka Kaelbard 😁
+## Bem-vindo(a) ao perfil do Christiano Barbosa 😁
 ## Fullstack Dev
 
  <div>
